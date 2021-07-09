@@ -28,7 +28,7 @@ export default ProgressBarExercise;
 // solution is pullled directly from the .js file by building an App item
 const Solution = () => {
     return <div>
-    <App/>
+    <App/>  
     </div>
 
 };
